@@ -1,2 +1,2 @@
 test1-exe
-test1 -lnch
+lest1
