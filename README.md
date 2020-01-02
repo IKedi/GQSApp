@@ -9,15 +9,19 @@ a tool that searches on google without google being open.**
 **Right click on the global (url) icon on the tray (taskbar). There you can select 3 options: Dock, Hide(CTRL+M), Exit.**  
 Dock: Hides the draggable top panel.  
 Hide: Minimizes to tray.  
-Exit: :thonk:  
+Exit: Closes the application.
 
 **Changing Theme**  
-Click on the cog (settings) icon on the right corner it will say what you need to do after that.
+Click on the cog (settings) icon on the right corner it will say what you need to do after that (will write here later).
 **Adding Custom Background**  
 Simply replace the 'Background.png' at the Icons folder with the picture you want
   
-  
-**Changelogs:**
+**Next update stuff:**  
+--------------------------------
+ - Slight UI changes
+ - More bug fix
+
+**Changelogs:**  
 --------------------------------
  - Added customizable background
  - Fixed minor bugs
