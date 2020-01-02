@@ -3,7 +3,7 @@
 **This is a test version.
 a tool that searches on google without google being open.**
 
-![Photo](https://vgy.me/u/BEri9Q)
+![GitHub last commit](https://img.shields.io/github/last-commit/IKedi/GQSApp) 
 
 **Changelogs**
 
