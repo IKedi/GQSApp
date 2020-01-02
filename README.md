@@ -12,9 +12,11 @@ Hide: Minimizes to tray.
 Exit: Closes the application.
 
 **Changing Theme**  
+--------------------------------
 Click on the cog (settings) icon on the right corner it will say what you need to do after that (will write here later).  
 
 **Adding Custom Background**  
+--------------------------------
 Simply replace the 'Background.png' at the Icons folder with the picture you want  
   
 **Next update stuff:**  
