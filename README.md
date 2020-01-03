@@ -17,6 +17,10 @@ Exit: Closes the application.
 Undock: Shows the draggable top panel.  
 Show: Shows back on screen
 
+--------------------------------  
+Click on global (url) icon to toggle url search mode.
+Click on key (incognito) icon to toggle incogito search mode.
+
 **Changing Theme**  
 --------------------------------
 Click on the cog (settings) icon on the right corner. Then choose your theme.  
@@ -38,4 +42,4 @@ This is still WIP.
 
 **Contributors:**  
 --------------------------------
-[![IKedi](https://avatars0.githubusercontent.com/u/36607876?s=46&v=4)](https://github.com/IKedi)
+[![c1](https://avatars0.githubusercontent.com/u/36607876?s=46&v=4)](https://github.com/IKedi)
