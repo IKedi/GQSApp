@@ -1,5 +1,5 @@
 # Google Quick Search  
-![GitHub last commit](https://img.shields.io/github/last-commit/IKedi/GQSApp)  
+![GitHub last commit](https://img.shields.io/github/last-commit/IKedi/GQSApp) ![GitHub watchers](https://img.shields.io/github/watchers/IKedi/GQSApp?color=brightgreen)  
 **This is a test version.  
 a tool that searches on google without google being open.**  
 ![Alt text](https://github.com/IKedi/Photos/blob/master/GQSIntro.png)
@@ -32,4 +32,4 @@ Simply replace the 'Background.png' at the Icons folder with the picture you wan
  - Added customizable background
  - Fixed minor bugs
 
-Still getting worked on.
+Still getting worked on.  
