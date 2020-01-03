@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/IKedi/GQSApp) ![GitHub watchers](https://img.shields.io/github/watchers/IKedi/GQSApp?color=brightgreen)  
 **This is a test version.  
 a tool that searches on google without google being open.**  
-![Alt text](https://github.com/IKedi/Photos/blob/master/GQSIntro.png)
+![Image](https://raw.githubusercontent.com/IKedi/Photos/master/GQSIntro.png)
 
 **How To Use:**
 --------------------------------
