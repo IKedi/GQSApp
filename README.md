@@ -15,11 +15,12 @@ Hide: Minimizes to tray. (shortcut CTRL + M)
 Exit: Closes the application.  
   
 Undock: Shows the draggable top panel.  
-Show: Shows back on screen
+Show: Shows back on screen  
 
+**Icon Functions**  
 --------------------------------  
-Click on global (url) icon to toggle url search mode.
-Click on key (incognito) icon to toggle incogito search mode.
+Click on global (url) icon to toggle url search mode.  
+Click on key (incognito) icon to toggle incogito search mode.  
 
 **Changing Theme**  
 --------------------------------
