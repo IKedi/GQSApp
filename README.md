@@ -16,7 +16,7 @@ Show: Shows back on screen
 
 **Changing Theme**  
 --------------------------------
-Click on the cog (settings) icon on the right corner it will say what you need to do after that (will write here later).  
+Click on the cog (settings) icon on the right corner. Then choose your theme.  
 
 **Adding Custom Background**  
 --------------------------------
@@ -33,3 +33,7 @@ Simply replace the 'Background.png' at the Icons folder with the picture you wan
  - Fixed minor bugs
 
 Still getting worked on.  
+
+**Contributors:**  
+--------------------------------
+[![IKedi](https://avatars0.githubusercontent.com/u/36607876?s=46&v=4)](https://github.com/IKedi)
