@@ -6,10 +6,13 @@ a tool that searches on google without google being open.**
 
 **How To Use:**
 --------------------------------
-**Right click on the global (url) icon on the tray (taskbar). There you can select 3 options: Dock, Hide(CTRL+M), Exit.**  
+**Right click on the global (url) icon on the tray (taskbar)**  
 Dock: Hides the draggable top panel.  
-Hide: Minimizes to tray.  
-Exit: Closes the application.
+Hide: Minimizes to tray. (shortcut CTRL + M)  
+Exit: Closes the application.  
+  
+Undock: Shows the draggable top panel.  
+Show: Shows back on screen
 
 **Changing Theme**  
 --------------------------------
