@@ -1,12 +1,15 @@
 # Google Quick Search  
-![GitHub last commit](https://img.shields.io/github/last-commit/IKedi/GQSApp) ![GitHub watchers](https://img.shields.io/github/watchers/IKedi/GQSApp?color=brightgreen)  
+
+![GitHub last commit](https://img.shields.io/github/last-commit/IKedi/GQSApp) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/IKedi/GQSApp?color=brightgreen&label=version) ![GitHub watchers](https://img.shields.io/github/watchers/IKedi/GQSApp?color=brightgreen) 
+
 **This is a test version.  
 a tool that searches on google without google being open.**  
 ![Image](https://raw.githubusercontent.com/IKedi/Photos/master/GQSIntro.png)
 
-**How To Use:**
+# How To Use:
 --------------------------------
 **Right click on the global (url) icon on the tray (taskbar)**  
+  
 Dock: Hides the draggable top panel.  
 Hide: Minimizes to tray. (shortcut CTRL + M)  
 Exit: Closes the application.  
@@ -24,15 +27,14 @@ Simply replace the 'Background.png' at the Icons folder with the picture you wan
   
 **Next update stuff:**  
 --------------------------------
- - Slight UI changes
- - More bug fix
+ - Probably more bug fix
 
 **Changelogs:**  
 --------------------------------
- - Added customizable background
- - Fixed minor bugs
+ - Added new settings UI
+ - Fixed some UI things
 
-Still getting worked on.  
+This is still WIP.  
 
 **Contributors:**  
 --------------------------------
