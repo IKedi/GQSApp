@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/IKedi?color=0F9D58)
 ![GitHub licanse](https://img.shields.io/github/license/IKedi/GQSApp?color=DB4437)
 
-![Image](https://raw.githubusercontent.com/IKedi/Photos/master/GQSIcon.png)
+![Image](https://raw.githubusercontent.com/IKedi/Photos/master/GQSLogo.png)
 
 **This is a test version.  
 a tool that searches on google without google being open.**  
