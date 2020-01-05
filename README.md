@@ -3,7 +3,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/IKedi/GQSApp?color=DB4437&label=version) 
 [![GitHub Releases (by Release)](https://img.shields.io/github/downloads/IKedi/GQSApp/v1.0.1-alpha/total?color=F4B400&label=Download)](https://github.com/IKedi/GQSApp/raw/master/Google%20Quick%20Search.rar)
 ![GitHub watchers](https://img.shields.io/github/watchers/IKedi/GQSApp?color=4285F4)
-[![GitHub followers](https://img.shields.io/github/followers/IKedi?color=0F9D58&label=Follow)](https://github.com/users/follow?target=IKedi)
+[![GitHub followers](https://img.shields.io/github/followers/IKedi?color=0F9D58&label=Followers)]
 ![GitHub licanse](https://img.shields.io/github/license/IKedi/GQSApp?color=DB4437)
 
 **This is a test version.  
